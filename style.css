@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: black !important;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+}
+
+.card
+{
+  background-color: #ff7400 !important;
+  color: black;
+}
+
+button a{
+  text-decoration: none !important;
+  color: black !important;
+}
+
+li a
+{
+  text-decoration: none !important;
+}
+
+.white{
+    color: white;
+}
+
+.grey
+{
+    color: grey;
+}
+
+.orange{
+    color: #ff7400;
+}
+
+
+.list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list li {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .list i {
+    margin-right: 10px;
+  }
+
+  
+  .card{
+    border: 2px solid black !important;
+    
+  }
+
+
+#myFooter{
+  border: 0.5px solid grey;
+}
+  
